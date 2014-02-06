@@ -1,4 +1,4 @@
-Git OSX Installer
+GET Git OSX Installer
 =================
 =================
 
